@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey :wave: I'm Rayan Yang
 
   
 
@@ -45,6 +45,7 @@ I'm Rayan Yang. A Full Stack web developer and Android developer. Brings a wealt
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?&logo=Nuxt.js&logoColor=00DC82)
   ![Quasar](https://img.shields.io/badge/-Quasar-05122A?&logo=Quasar&logoColor=1976D2)
   ![Ionic](https://img.shields.io/badge/-Ionic-05122A?&logo=Ionic&logoColor=3880FF)
+  ![Flutter](https://img.shields.io/badge/-Flutter-05122A?&logo=flutter&logoColor=3880FF)
   ![Electron](https://img.shields.io/badge/-Electron-05122A?&logo=Electron&logoColor=47848F)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?&logo=Gatsby&logoColor=663399)
   ![Livewire](https://img.shields.io/badge/-Livewire-05122A?&logo=Livewire&logoColor=4E56A6)
@@ -54,6 +55,7 @@ I'm Rayan Yang. A Full Stack web developer and Android developer. Brings a wealt
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=TailwindCSS&logoColor=06B6D4)
   ![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?&logo=ChakraUI&logoColor=319795)
   ![Jest](https://img.shields.io/badge/-Jest-05122A?&logo=Jest&logoColor=C21325)
+  ![Remix](https://img.shields.io/badge/-Remix-05122A?&logo=remix&logoColor=ffffff)
 
 - Backend
 
@@ -74,10 +76,15 @@ I'm Rayan Yang. A Full Stack web developer and Android developer. Brings a wealt
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
+## A joke that'll make you laugh today!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=icodeocean&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodeocean&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 </details>
