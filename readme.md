@@ -75,6 +75,5 @@ A Full Stack web developer and Android developer. Brings a wealth of experience 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-<summary>GitHub Stats</summary>
+## Github stats
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icodeocean&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
