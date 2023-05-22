@@ -20,7 +20,7 @@
 
   
 
-I'm Rayan Yang. A Full Stack web developer and Android developer. Brings a wealth of experience in React, Vue, Flutter, and Chatbot development to the table. Passion for creating seamless user experiences and my detail-oriented approach to problem-solving make a valuable asset to any team. Whether building a complex web application or developing a cutting-edge mobile app, always strive to deliver the highest quality work possible. If you're looking for a skilled and dedicated developer who can help take your project to the next level, look no further than me.
+A Full Stack web developer and Android developer. Brings a wealth of experience in React, Vue, Flutter, and Chatbot development to the table. Passion for creating seamless user experiences and my detail-oriented approach to problem-solving make a valuable asset to any team. Whether building a complex web application or developing a cutting-edge mobile app, always strive to deliver the highest quality work possible. If you're looking for a skilled and dedicated developer who can help take your project to the next level, look no further than me.
 
   
   
