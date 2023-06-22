@@ -76,6 +76,7 @@ A Full Stack web developer and Android developer. Brings a wealth of experience 
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 - CMS
+
   ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?&logo=Wordpress&logoColor=FFFFFF)
   ![Statamic](https://img.shields.io/badge/-Statamic-05122A?&logo=Statamic&logoColor=FFFFFF)
 
