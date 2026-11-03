@@ -20,7 +20,8 @@
 
   
 
-A Full Stack web developer and Android developer. Brings a wealth of experience in React, Vue, Flutter, and Chatbot development to the table. Passion for creating seamless user experiences and my detail-oriented approach to problem-solving make a valuable asset to any team. Whether building a complex web application or developing a cutting-edge mobile app, always strive to deliver the highest quality work possible. If you're looking for a skilled and dedicated developer who can help take your project to the next level, look no further than me.
+Senior AI/ML Engineer with 10+ years of experience building production backend platforms, distributed systems, search/retrieval services, real-time data pipelines, and AI-enabled applications. Deep hands-on expertise in Go, Python, gRPC, REST APIs, Kafka, PostgreSQL, Redis, Kubernetes, Terraform, observability, and performance engineering. Recent work includes LLM integration, retrieval- augmented generation (RAG), embeddings, vector search, model-inference services, AI-assisted engineering workflows, and evaluation of AI outputs for grounding, reliability, latency, and production behavior. Strong at reasoning across complex codebases, debugging multi- service failures, designing verifiable engineering solutions, documenting architectural tradeoffs, and collaborating with ML/platform
+teams to move intelligent systems from prototype to reliable production.
 
   
   
