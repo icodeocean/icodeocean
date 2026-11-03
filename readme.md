@@ -2,10 +2,11 @@
 
   
 
-<img src="https://cogniai.com/assets/Gemini_Generated_Image_j8chozj8chozj8ch-vNJ7yx9x.png" alt="AI and Machine Learning" width="100%" />
-
-  
-
+<img
+    src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
+    alt="AI and Machine Learning Engineer"
+    width="100%"
+ /
 <p align="center">
 
   Visitor count<br>
