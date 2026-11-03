@@ -1,8 +1,8 @@
-# Hey there :wave:
+# Hey there everyone :wave:
 
   
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://cogniai.com/assets/Gemini_Generated_Image_j8chozj8chozj8ch-vNJ7yx9x.png" alt="AI and Machine Learning" width="100%" />
 
   
 
