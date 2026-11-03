@@ -6,7 +6,7 @@
     src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
     alt="AI and Machine Learning Engineer"
     width="100%"
- /
+ />
 <p align="center">
 
   Visitor count<br>
